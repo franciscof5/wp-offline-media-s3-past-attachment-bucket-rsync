@@ -4,6 +4,11 @@ After enable W3 Offline Media you only can sync the new media, the old ones in y
 
 With my hack solution, it is simple, just enable my plugin and the previous attachment you have the URL modified on fly to bucket location.
 
+ * Enable Wp Offline Media
+ * Upload Hack Plugin
+ * Configure the Hack Plugin (direct on code)
+ * Enable plugin
+
 ## rsync
 
 Remembter to sync your upload folder on S3 before enable the plugin
